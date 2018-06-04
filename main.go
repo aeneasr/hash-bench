@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/ory/hash-bench/cmd"
+import "github.com/arekkas/hash-bench/cmd"
 
 func main() {
 	cmd.Execute()
